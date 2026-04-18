@@ -9,13 +9,10 @@
 
 - 📫 How to reach me **nayakp0604@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QTWm42gi0FGQ1UwxeZn4JeBeHMcDoahM/view?usp=sharing](https://drive.google.com/file/d/1QTWm42gi0FGQ1UwxeZn4JeBeHMcDoahM/view?usp=sharing)
-
 - ⚡ Fun fact **I can build platforms where research needs a class.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prakash-kumar-nayak-8a1b39202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-kumar-nayak-8a1b39202" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prakashkumarn413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakashkumarn413" height="30" width="40" /></a>
 </p>
 
